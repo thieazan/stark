@@ -1,4 +1,2 @@
 # stark
-///eqrwteewrgrq
-fetr
-eqwrtfytgjuhj
+#ciao
